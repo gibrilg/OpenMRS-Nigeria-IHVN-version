@@ -10,3 +10,9 @@ Email for updated version as at the time of use.
 gibrilgmz@gmail.com
 
 =================================================================================================
+
+https://wiki.openmrs.org/display/docs/OpenMRS+Nigeria
+
+https://wiki.openmrs.org/display/docs/OpenMRS+Distributions
+
+=================================================================================================
